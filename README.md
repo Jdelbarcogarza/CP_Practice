@@ -1,2 +1,6 @@
 # CP_Practice
-Problemas de programación competitiva de práctica
+
+Repositorio donde guardamos nuestras soluciones a problemas de programación
+competitiva sacados de www.codeforces.com. Todo para practicar 💻.
+
+-ITCerebritos
